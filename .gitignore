@@ -1,6 +1,6 @@
 # Ignore VSCode Settings
 .vscode
-
+.flaskenv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
